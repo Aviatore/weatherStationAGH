@@ -9,7 +9,7 @@ The Perl script downloads the source code of the webpage [http://meteo.ftj.agh.e
 | rain | rain intensity [mm/h]|
 |	wind_max | max wind speed [m/s]|
 |	wind_direction | wind direction [°]|
-|	wind | wind speed [m\s]|
+|	wind | wind speed [m/s]|
 |	pressure_QNH | atm. pressure reduced to the sea level [hPa]|
 |	pressure | atm. pressure [hPa]|
 |	humidity | relative humidity [%]|
