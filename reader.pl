@@ -1,6 +1,7 @@
 use strict;
 use warnings;
 use Getopt::Long;
+use lib '.';
 use WSR;
 
 my $param = "Parameter";
